@@ -2,10 +2,14 @@
 
 I have only recently gotten into programming and would like to learn much more.
 
-## I currently know:
+#### I currently know:
     Python
     C++
     Html/CSS
+
+#### I am learning/Working on
+    Improving my C++
+    Learning about compilers/interpreters
 
 I started from CS50x
 
